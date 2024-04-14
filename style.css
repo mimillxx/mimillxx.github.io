@@ -1,0 +1,102 @@
+*{
+    font-size: 25px;
+}
+header{
+        background-color:rgba(252, 230, 217, 1);
+        color: black;   
+        width: 100%;
+}
+body{
+    background-color:rgba(253, 212, 189, 1);
+}
+header nav{
+    text-align: center;
+}
+header nav a{
+    margin: 10px 30px;
+ color: black;
+}
+.pustota{
+    width:10%;
+    background-color: rgba(252, 230, 217, 1);
+}
+.about{
+height: 100px;
+}
+.post{
+    padding: 10px 5%;
+text-align: center;
+background-color:rgba(255, 239, 239, 1);
+margin: 0px 140px 0px 140px;
+}
+.names{
+background-color:rgba(255, 239, 239, 1);
+text-align: center;
+color: black;
+}
+.rast{
+height: 100px;
+}
+.razryv{
+height: 500px;
+}
+nav a{
+    margin: 20px 80px;
+ color: black;
+ text-decoration: none;
+}
+a:hover{
+color: #ed7b23;
+text-decoration: underline;
+}
+.zagolovoc{
+    background-color: white;
+    text-align: center;
+}
+.mans{
+    background-color: rgba(255, 239, 239, 1);
+    margin: 0 450px;
+}
+.text{
+    padding: 10px 35px 10px 35px;
+}
+.text2{
+    padding: 0 35px 10px 35px;
+}
+.okey{
+    display: inline;
+    padding: 0;
+    font-size: 0;
+}
+.dc{
+    color: white;
+    text-align: center;
+    font-size: 40px;
+    background-color: black;
+}
+.gd{
+    background-color:rgba(255, 239, 239, 1);
+    justify-content: space-around;
+    align-content: center;
+    display: inline-block;
+    margin: 0px 140px 0px 140px;
+    flex-wrap: wrap;
+    flex-direction: column;
+    padding: 10px 20px;
+    border-radius: 6%;
+
+}
+.album{
+    text-align: center;
+    
+}
+.foot{
+   background-color: black; 
+   font-size: 15px; 
+   text-align: center;
+}
+footer>a{
+    color: white;
+    text-decoration: none;
+    margin: 20px 80px;
+}
